@@ -1,6 +1,6 @@
 # 2026-DTI-DTA-Review
 
-This repository provides a benchmark of **12 DTA/DTI models** evaluated on the **BioSNAP** and **KIBA** datasets.
+This repository provides a benchmark of **12 DTA/DTI prediction models** evaluated on the **BioSNAP** and **KIBA** datasets.
 
 ## Repository Structure
 
@@ -12,10 +12,10 @@ The repository currently contains three branches:
 
 ## Results
 
-The experimental results of all models on the BioSNAP and KIBA datasets are shown below:
+The computational experiment results of all prediction models on the BioSNAP and KIBA datasets are shown below:
 
 
-### table 1：biosnap full data
+### Table 1：Performance comparsion between seven DTI prediction models on BIOSANP dataset under random-split settings
 
 | Method | Model | AUROC | AUPRC | Max MCC | Max F1-score |
 |------|------|---------|--------|---------|--------------|
@@ -78,5 +78,5 @@ result/
 └── dti_result/  
     └── DTI model results on BioSNAP  
 dataset/ — Contains the KIBA and BioSNAP datasets used in the experiments.  
-dta_result/ — Contains the experimental results of DTA models on KIBA.  
-dti_result/ — Contains the experimental results of DTI models on BioSNAP.  
+dta_result/ — Contains the experimental results of DTA models on the KIBA dataset.  
+dti_result/ — Contains the experimental results of DTI models on the BIOSNAP dataset.  
