@@ -62,3 +62,21 @@ The experimental results of all models on the BioSNAP and KIBA datasets are show
 | molecule-side foundation model | SubMDTA | 0.1398 | 0.8924 | 0.7667 |
 | dual-branch foundation model | PMMR | 0.1575 | 0.8784 | 0.7449 |
 | dual-branch foundation model | DTIAM | 0.1572 | 0.8757 | 0.7312 |
+
+## Result Branch Structure
+
+The result branch is organized as follows:
+
+result/  
+├── dataset/  
+│   ├── biosnap/  
+│   └── kiba/  
+│  
+├── dta_result/  
+│   └── DTA model results on KIBA  
+│  
+└── dti_result/  
+    └── DTI model results on BioSNAP  
+dataset/ — Contains the KIBA and BioSNAP datasets used in the experiments.  
+dta_result/ — Contains the experimental results of DTA models on KIBA.  
+dti_result/ — Contains the experimental results of DTI models on BioSNAP.  
