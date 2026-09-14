@@ -1,0 +1,5111 @@
+Namespace(root_data_path='../../data', dataset='bindingdb')
+../../data/bindingdb/protein/ created
+torch.Size([260, 480])
+829
+torch.Size([259, 480])
+1015
+torch.Size([117, 480])
+796
+torch.Size([300, 480])
+15
+torch.Size([300, 480])
+22
+torch.Size([300, 480])
+21
+torch.Size([300, 480])
+19
+torch.Size([300, 480])
+16
+torch.Size([300, 480])
+23
+torch.Size([976, 480])
+743
+torch.Size([300, 480])
+20
+torch.Size([300, 480])
+17
+torch.Size([976, 480])
+742
+torch.Size([398, 480])
+279
+torch.Size([372, 480])
+352
+torch.Size([428, 480])
+290
+torch.Size([412, 480])
+676
+torch.Size([443, 480])
+248
+torch.Size([477, 480])
+427
+torch.Size([413, 480])
+490
+torch.Size([408, 480])
+146
+torch.Size([766, 480])
+44
+torch.Size([327, 480])
+13
+torch.Size([327, 480])
+12
+torch.Size([1210, 480])
+767
+torch.Size([327, 480])
+10
+torch.Size([327, 480])
+11
+torch.Size([351, 480])
+474
+torch.Size([1388, 480])
+861
+torch.Size([1130, 480])
+586
+torch.Size([403, 480])
+255
+torch.Size([344, 480])
+149
+torch.Size([309, 480])
+875
+torch.Size([347, 480])
+778
+torch.Size([894, 480])
+203
+torch.Size([502, 480])
+291
+torch.Size([346, 480])
+113
+torch.Size([464, 480])
+292
+torch.Size([372, 480])
+112
+torch.Size([484, 480])
+747
+torch.Size([481, 480])
+746
+torch.Size([481, 480])
+411
+torch.Size([367, 480])
+308
+torch.Size([533, 480])
+503
+torch.Size([1130, 480])
+587
+torch.Size([999, 480])
+585
+torch.Size([533, 480])
+504
+torch.Size([533, 480])
+505
+torch.Size([509, 480])
+432
+torch.Size([450, 480])
+784
+torch.Size([821, 480])
+974
+torch.Size([806, 480])
+430
+torch.Size([311, 480])
+623
+torch.Size([1198, 480])
+145
+torch.Size([1038, 480])
+717
+torch.Size([298, 480])
+348
+torch.Size([282, 480])
+469
+torch.Size([402, 480])
+714
+torch.Size([1732, 480])
+820
+torch.Size([1711, 480])
+787
+torch.Size([1537, 480])
+448
+torch.Size([848, 480])
+868
+torch.Size([229, 480])
+771
+torch.Size([289, 480])
+349
+torch.Size([327, 480])
+597
+torch.Size([1154, 480])
+728
+torch.Size([1124, 480])
+142
+torch.Size([635, 480])
+174
+torch.Size([1132, 480])
+472
+torch.Size([425, 480])
+360
+torch.Size([444, 480])
+826
+torch.Size([672, 480])
+63
+torch.Size([672, 480])
+62
+torch.Size([671, 480])
+58
+torch.Size([676, 480])
+135
+torch.Size([737, 480])
+976
+torch.Size([233, 480])
+857
+torch.Size([1013, 480])
+65
+torch.Size([360, 480])
+854
+torch.Size([536, 480])
+499
+torch.Size([1014, 480])
+80
+torch.Size([1090, 480])
+38
+torch.Size([358, 480])
+29
+torch.Size([2442, 480])
+74
+torch.Size([588, 480])
+101
+torch.Size([104, 480])
+1013
+torch.Size([104, 480])
+1012
+torch.Size([104, 480])
+1011
+torch.Size([336, 480])
+73
+torch.Size([336, 480])
+72
+torch.Size([358, 480])
+31
+torch.Size([230, 480])
+14
+torch.Size([108, 480])
+7
+torch.Size([232, 480])
+27
+torch.Size([121, 480])
+1006
+torch.Size([232, 480])
+1007
+torch.Size([125, 480])
+1002
+torch.Size([128, 480])
+25
+torch.Size([253, 480])
+1003
+torch.Size([722, 480])
+782
+torch.Size([249, 480])
+1005
+torch.Size([603, 480])
+780
+torch.Size([305, 480])
+6
+torch.Size([1049, 480])
+915
+torch.Size([482, 480])
+151
+torch.Size([848, 480])
+407
+torch.Size([493, 480])
+406
+torch.Size([503, 480])
+603
+torch.Size([515, 480])
+120
+torch.Size([472, 480])
+570
+torch.Size([472, 480])
+571
+torch.Size([472, 480])
+568
+torch.Size([472, 480])
+569
+torch.Size([472, 480])
+572
+torch.Size([380, 480])
+275
+torch.Size([380, 480])
+259
+torch.Size([380, 480])
+260
+torch.Size([380, 480])
+261
+torch.Size([380, 480])
+262
+torch.Size([380, 480])
+276
+torch.Size([380, 480])
+263
+torch.Size([380, 480])
+264
+torch.Size([380, 480])
+265
+torch.Size([380, 480])
+266
+torch.Size([380, 480])
+267
+torch.Size([380, 480])
+268
+torch.Size([380, 480])
+269
+torch.Size([380, 480])
+270
+torch.Size([380, 480])
+271
+torch.Size([380, 480])
+272
+torch.Size([380, 480])
+273
+torch.Size([380, 480])
+274
+torch.Size([405, 480])
+923
+torch.Size([405, 480])
+934
+torch.Size([405, 480])
+924
+torch.Size([405, 480])
+925
+torch.Size([405, 480])
+926
+torch.Size([405, 480])
+933
+torch.Size([405, 480])
+927
+torch.Size([405, 480])
+928
+torch.Size([405, 480])
+929
+torch.Size([405, 480])
+930
+torch.Size([405, 480])
+931
+torch.Size([405, 480])
+932
+torch.Size([745, 480])
+513
+torch.Size([497, 480])
+776
+torch.Size([283, 480])
+104
+torch.Size([604, 480])
+582
+torch.Size([441, 480])
+812
+torch.Size([329, 480])
+26
+torch.Size([351, 480])
+473
+torch.Size([724, 480])
+672
+torch.Size([236, 480])
+670
+torch.Size([123, 480])
+995
+torch.Size([123, 480])
+998
+torch.Size([123, 480])
+1001
+torch.Size([123, 480])
+992
+torch.Size([123, 480])
+993
+torch.Size([123, 480])
+994
+torch.Size([123, 480])
+996
+torch.Size([123, 480])
+997
+torch.Size([123, 480])
+999
+torch.Size([123, 480])
+1000
+torch.Size([316, 480])
+173
+torch.Size([179, 480])
+0
+torch.Size([176, 480])
+252
+torch.Size([533, 480])
+138
+torch.Size([1210, 480])
+768
+torch.Size([659, 480])
+49
+torch.Size([1634, 480])
+877
+torch.Size([1044, 480])
+689
+torch.Size([526, 480])
+457
+torch.Size([976, 480])
+744
+torch.Size([993, 480])
+665
+torch.Size([518, 480])
+253
+torch.Size([822, 480])
+986
+torch.Size([796, 480])
+618
+torch.Size([822, 480])
+878
+torch.Size([1620, 480])
+428
+torch.Size([466, 480])
+647
+torch.Size([343, 480])
+984
+torch.Size([372, 480])
+364
+torch.Size([340, 480])
+222
+torch.Size([359, 480])
+628
+torch.Size([463, 480])
+987
+torch.Size([462, 480])
+280
+torch.Size([533, 480])
+897
+torch.Size([454, 480])
+191
+torch.Size([246, 480])
+577
+torch.Size([431, 480])
+729
+torch.Size([157, 480])
+547
+torch.Size([455, 480])
+948
+torch.Size([462, 480])
+165
+torch.Size([254, 480])
+202
+torch.Size([402, 480])
+422
+torch.Size([488, 480])
+816
+torch.Size([683, 480])
+870
+torch.Size([1134, 480])
+86
+torch.Size([630, 480])
+399
+torch.Size([1506, 480])
+835
+torch.Size([326, 480])
+692
+torch.Size([467, 480])
+426
+torch.Size([418, 480])
+459
+torch.Size([450, 480])
+228
+torch.Size([332, 480])
+713
+torch.Size([359, 480])
+84
+torch.Size([466, 480])
+423
+torch.Size([380, 480])
+495
+torch.Size([327, 480])
+132
+torch.Size([444, 480])
+249
+torch.Size([587, 480])
+921
+torch.Size([589, 480])
+922
+torch.Size([460, 480])
+659
+torch.Size([407, 480])
+245
+torch.Size([424, 480])
+818
+torch.Size([98, 480])
+1019
+torch.Size([372, 480])
+344
+torch.Size([463, 480])
+988
+torch.Size([370, 480])
+412
+torch.Size([389, 480])
+312
+torch.Size([384, 480])
+456
+torch.Size([384, 480])
+421
+torch.Size([189, 480])
+1018
+torch.Size([187, 480])
+959
+torch.Size([388, 480])
+316
+torch.Size([323, 480])
+633
+torch.Size([332, 480])
+970
+torch.Size([363, 480])
+536
+torch.Size([359, 480])
+528
+torch.Size([138, 480])
+686
+torch.Size([137, 480])
+685
+torch.Size([515, 480])
+650
+torch.Size([466, 480])
+964
+torch.Size([466, 480])
+957
+torch.Size([561, 480])
+911
+torch.Size([520, 480])
+898
+torch.Size([619, 480])
+834
+torch.Size([390, 480])
+310
+torch.Size([446, 480])
+141
+torch.Size([427, 480])
+394
+torch.Size([422, 480])
+284
+torch.Size([427, 480])
+392
+torch.Size([446, 480])
+140
+torch.Size([326, 480])
+842
+torch.Size([233, 480])
+858
+torch.Size([622, 480])
+108
+torch.Size([624, 480])
+716
+torch.Size([491, 480])
+209
+torch.Size([458, 480])
+192
+torch.Size([462, 480])
+164
+torch.Size([490, 480])
+940
+torch.Size([410, 480])
+506
+torch.Size([674, 480])
+136
+torch.Size([855, 480])
+526
+torch.Size([150, 480])
+785
+torch.Size([595, 480])
+662
+torch.Size([846, 480])
+303
+torch.Size([464, 480])
+837
+torch.Size([559, 480])
+770
+torch.Size([385, 480])
+155
+torch.Size([496, 480])
+254
+torch.Size([545, 480])
+845
+torch.Size([559, 480])
+797
+torch.Size([733, 480])
+240
+torch.Size([1235, 480])
+814
+torch.Size([1161, 480])
+551
+torch.Size([1363, 480])
+722
+torch.Size([666, 480])
+196
+torch.Size([788, 480])
+865
+torch.Size([484, 480])
+748
+torch.Size([1360, 480])
+159
+torch.Size([591, 480])
+409
+torch.Size([414, 480])
+531
+torch.Size([970, 480])
+183
+torch.Size([499, 480])
+675
+torch.Size([719, 480])
+408
+torch.Size([454, 480])
+884
+torch.Size([681, 480])
+418
+torch.Size([558, 480])
+195
+torch.Size([478, 480])
+188
+torch.Size([406, 480])
+917
+torch.Size([497, 480])
+367
+torch.Size([1106, 480])
+757
+torch.Size([802, 480])
+307
+torch.Size([968, 480])
+82
+torch.Size([697, 480])
+93
+torch.Size([2671, 480])
+809
+torch.Size([359, 480])
+576
+torch.Size([354, 480])
+225
+torch.Size([460, 480])
+658
+torch.Size([466, 480])
+648
+torch.Size([472, 480])
+573
+torch.Size([976, 480])
+378
+torch.Size([1036, 480])
+453
+torch.Size([505, 480])
+315
+torch.Size([416, 480])
+873
+torch.Size([1114, 480])
+111
+torch.Size([716, 480])
+724
+torch.Size([628, 480])
+386
+torch.Size([655, 480])
+374
+torch.Size([626, 480])
+219
+torch.Size([890, 480])
+791
+torch.Size([476, 480])
+198
+torch.Size([372, 480])
+862
+torch.Size([1914, 480])
+445
+torch.Size([399, 480])
+45
+torch.Size([1104, 480])
+361
+torch.Size([388, 480])
+234
+torch.Size([961, 480])
+549
+torch.Size([387, 480])
+939
+torch.Size([912, 480])
+792
+torch.Size([661, 480])
+311
+torch.Size([1050, 480])
+355
+torch.Size([578, 480])
+331
+torch.Size([556, 480])
+156
+torch.Size([822, 480])
+450
+torch.Size([544, 480])
+212
+torch.Size([519, 480])
+241
+torch.Size([619, 480])
+217
+torch.Size([619, 480])
+668
+torch.Size([926, 480])
+967
+torch.Size([499, 480])
+180
+torch.Size([388, 480])
+598
+torch.Size([984, 480])
+163
+torch.Size([601, 480])
+624
+torch.Size([778, 480])
+867
+torch.Size([465, 480])
+971
+torch.Size([977, 480])
+667
+torch.Size([666, 480])
+612
+torch.Size([347, 480])
+387
+torch.Size([596, 480])
+94
+torch.Size([942, 480])
+158
+torch.Size([736, 480])
+942
+torch.Size([2347, 480])
+556
+torch.Size([1036, 480])
+404
+torch.Size([514, 480])
+61
+torch.Size([606, 480])
+880
+torch.Size([1328, 480])
+872
+torch.Size([729, 480])
+725
+torch.Size([762, 480])
+477
+torch.Size([753, 480])
+890
+torch.Size([472, 480])
+96
+torch.Size([847, 480])
+358
+torch.Size([954, 480])
+306
+torch.Size([491, 480])
+366
+torch.Size([393, 480])
+677
+torch.Size([1187, 480])
+684
+torch.Size([820, 480])
+116
+torch.Size([487, 480])
+400
+torch.Size([832, 480])
+313
+torch.Size([1030, 480])
+546
+torch.Size([1311, 480])
+839
+torch.Size([712, 480])
+90
+torch.Size([1313, 480])
+382
+torch.Size([1239, 480])
+128
+torch.Size([1088, 480])
+761
+torch.Size([745, 480])
+375
+torch.Size([567, 480])
+794
+torch.Size([425, 480])
+486
+torch.Size([418, 480])
+244
+torch.Size([369, 480])
+242
+torch.Size([364, 480])
+357
+torch.Size([929, 480])
+314
+torch.Size([629, 480])
+199
+torch.Size([1570, 480])
+800
+torch.Size([913, 480])
+481
+torch.Size([303, 480])
+194
+torch.Size([999, 480])
+480
+torch.Size([1332, 480])
+442
+torch.Size([588, 480])
+866
+torch.Size([359, 480])
+376
+torch.Size([671, 480])
+807
+torch.Size([835, 480])
+479
+torch.Size([1649, 480])
+91
+torch.Size([1009, 480])
+828
+torch.Size([822, 480])
+452
+torch.Size([1390, 480])
+534
+torch.Size([763, 480])
+519
+torch.Size([448, 480])
+625
+torch.Size([819, 480])
+827
+torch.Size([857, 480])
+380
+torch.Size([756, 480])
+900
+torch.Size([2527, 480])
+161
+torch.Size([772, 480])
+439
+torch.Size([370, 480])
+417
+torch.Size([553, 480])
+955
+torch.Size([524, 480])
+435
+torch.Size([524, 480])
+798
+torch.Size([1068, 480])
+691
+torch.Size([313, 480])
+607
+torch.Size([400, 480])
+583
+torch.Size([688, 480])
+895
+torch.Size([1089, 480])
+510
+torch.Size([568, 480])
+294
+torch.Size([626, 480])
+946
+torch.Size([898, 480])
+750
+torch.Size([1263, 480])
+666
+torch.Size([772, 480])
+627
+torch.Size([334, 480])
+856
+torch.Size([427, 480])
+863
+torch.Size([878, 480])
+182
+torch.Size([351, 480])
+475
+torch.Size([839, 480])
+287
+torch.Size([563, 480])
+224
+torch.Size([894, 480])
+651
+torch.Size([424, 480])
+893
+torch.Size([396, 480])
+429
+torch.Size([1356, 480])
+723
+torch.Size([460, 480])
+643
+torch.Size([795, 480])
+793
+torch.Size([326, 480])
+606
+torch.Size([1430, 480])
+950
+torch.Size([620, 480])
+645
+torch.Size([629, 480])
+783
+torch.Size([305, 480])
+458
+torch.Size([480, 480])
+802
+torch.Size([1354, 480])
+885
+torch.Size([370, 480])
+590
+torch.Size([464, 480])
+125
+torch.Size([972, 480])
+484
+torch.Size([552, 480])
+69
+torch.Size([766, 480])
+896
+torch.Size([490, 480])
+365
+torch.Size([461, 480])
+938
+torch.Size([706, 480])
+851
+torch.Size([529, 480])
+436
+torch.Size([596, 480])
+702
+torch.Size([496, 480])
+721
+torch.Size([632, 480])
+654
+torch.Size([525, 480])
+772
+torch.Size([1382, 480])
+187
+torch.Size([505, 480])
+471
+torch.Size([367, 480])
+214
+torch.Size([745, 480])
+613
+torch.Size([1297, 480])
+200
+torch.Size([1235, 480])
+664
+torch.Size([651, 480])
+538
+torch.Size([444, 480])
+250
+torch.Size([471, 480])
+230
+torch.Size([349, 480])
+328
+torch.Size([331, 480])
+562
+torch.Size([735, 480])
+682
+torch.Size([472, 480])
+642
+torch.Size([890, 480])
+119
+torch.Size([415, 480])
+339
+torch.Size([447, 480])
+350
+torch.Size([391, 480])
+823
+torch.Size([305, 480])
+243
+torch.Size([1055, 480])
+118
+torch.Size([1182, 480])
+492
+torch.Size([512, 480])
+434
+torch.Size([503, 480])
+297
+torch.Size([984, 480])
+114
+torch.Size([1255, 480])
+327
+torch.Size([671, 480])
+715
+torch.Size([509, 480])
+954
+torch.Size([360, 480])
+28
+torch.Size([1038, 480])
+941
+torch.Size([422, 480])
+227
+torch.Size([752, 480])
+876
+torch.Size([426, 480])
+105
+torch.Size([1608, 480])
+736
+torch.Size([800, 480])
+871
+torch.Size([783, 480])
+961
+torch.Size([483, 480])
+821
+torch.Size([465, 480])
+973
+torch.Size([2027, 480])
+595
+torch.Size([587, 480])
+68
+torch.Size([451, 480])
+972
+torch.Size([864, 480])
+438
+torch.Size([647, 480])
+41
+torch.Size([646, 480])
+817
+torch.Size([567, 480])
+493
+torch.Size([783, 480])
+440
+torch.Size([986, 480])
+92
+torch.Size([708, 480])
+236
+torch.Size([638, 480])
+704
+torch.Size([626, 480])
+88
+torch.Size([979, 480])
+894
+torch.Size([648, 480])
+317
+torch.Size([473, 480])
+599
+torch.Size([1341, 480])
+541
+torch.Size([337, 480])
+936
+torch.Size([1138, 480])
+979
+torch.Size([364, 480])
+822
+torch.Size([544, 480])
+980
+torch.Size([400, 480])
+621
+torch.Size([420, 480])
+824
+torch.Size([1374, 480])
+882
+torch.Size([983, 480])
+213
+torch.Size([1005, 480])
+134
+torch.Size([1037, 480])
+745
+torch.Size([987, 480])
+340
+torch.Size([646, 480])
+351
+torch.Size([415, 480])
+223
+torch.Size([469, 480])
+207
+torch.Size([765, 480])
+39
+torch.Size([1258, 480])
+326
+torch.Size([802, 480])
+755
+torch.Size([527, 480])
+836
+torch.Size([443, 480])
+277
+torch.Size([795, 480])
+441
+torch.Size([513, 480])
+420
+torch.Size([1367, 480])
+567
+torch.Size([503, 480])
+919
+torch.Size([1616, 480])
+414
+torch.Size([998, 480])
+153
+torch.Size([476, 480])
+494
+torch.Size([499, 480])
+588
+torch.Size([1130, 480])
+563
+torch.Size([1906, 480])
+446
+torch.Size([532, 480])
+694
+torch.Size([740, 480])
+815
+torch.Size([648, 480])
+463
+torch.Size([416, 480])
+107
+torch.Size([313, 480])
+97
+torch.Size([527, 480])
+530
+torch.Size([505, 480])
+843
+torch.Size([675, 480])
+281
+torch.Size([721, 480])
+67
+torch.Size([414, 480])
+455
+torch.Size([523, 480])
+550
+torch.Size([512, 480])
+903
+torch.Size([350, 480])
+674
+torch.Size([1315, 480])
+325
+torch.Size([540, 480])
+639
+torch.Size([833, 480])
+288
+torch.Size([473, 480])
+806
+torch.Size([292, 480])
+712
+torch.Size([379, 480])
+33
+torch.Size([1052, 480])
+37
+torch.Size([450, 480])
+498
+torch.Size([920, 480])
+402
+torch.Size([165, 480])
+969
+torch.Size([216, 480])
+619
+torch.Size([207, 480])
+581
+torch.Size([354, 480])
+696
+torch.Size([262, 480])
+860
+torch.Size([337, 480])
+589
+torch.Size([459, 480])
+139
+torch.Size([261, 480])
+168
+torch.Size([317, 480])
+978
+torch.Size([264, 480])
+913
+torch.Size([933, 480])
+907
+torch.Size([505, 480])
+449
+torch.Size([759, 480])
+373
+torch.Size([350, 480])
+396
+torch.Size([467, 480])
+478
+torch.Size([479, 480])
+626
+torch.Size([622, 480])
+751
+torch.Size([432, 480])
+592
+torch.Size([99, 480])
+1010
+torch.Size([217, 480])
+299
+torch.Size([288, 480])
+960
+torch.Size([418, 480])
+758
+torch.Size([374, 480])
+622
+torch.Size([342, 480])
+707
+torch.Size([616, 480])
+958
+torch.Size([2414, 480])
+75
+torch.Size([232, 480])
+635
+torch.Size([199, 480])
+688
+torch.Size([726, 480])
+881
+torch.Size([801, 480])
+616
+torch.Size([1362, 480])
+781
+torch.Size([1159, 480])
+706
+torch.Size([595, 480])
+935
+torch.Size([530, 480])
+229
+torch.Size([422, 480])
+892
+torch.Size([163, 480])
+55
+torch.Size([1001, 480])
+295
+torch.Size([583, 480])
+46
+torch.Size([630, 480])
+398
+torch.Size([147, 480])
+162
+torch.Size([260, 480])
+830
+torch.Size([149, 480])
+59
+torch.Size([543, 480])
+433
+torch.Size([537, 480])
+437
+torch.Size([384, 480])
+657
+torch.Size([750, 480])
+982
+torch.Size([732, 480])
+671
+torch.Size([399, 480])
+64
+torch.Size([586, 480])
+644
+torch.Size([597, 480])
+465
+torch.Size([326, 480])
+693
+torch.Size([1214, 480])
+511
+torch.Size([1050, 480])
+401
+torch.Size([483, 480])
+683
+torch.Size([615, 480])
+470
+torch.Size([501, 480])
+147
+torch.Size([245, 480])
+321
+torch.Size([246, 480])
+443
+torch.Size([502, 480])
+735
+torch.Size([695, 480])
+81
+torch.Size([99, 480])
+1009
+torch.Size([300, 480])
+239
+torch.Size([1689, 480])
+496
+torch.Size([1484, 480])
+211
+torch.Size([651, 480])
+466
+torch.Size([377, 480])
+990
+torch.Size([1102, 480])
+332
+torch.Size([463, 480])
+425
+torch.Size([265, 480])
+777
+torch.Size([766, 480])
+578
+torch.Size([315, 480])
+543
+torch.Size([816, 480])
+444
+torch.Size([1070, 480])
+208
+torch.Size([253, 480])
+518
+torch.Size([267, 480])
+918
+torch.Size([611, 480])
+673
+torch.Size([804, 480])
+846
+torch.Size([247, 480])
+652
+torch.Size([1203, 480])
+963
+torch.Size([565, 480])
+533
+torch.Size([424, 480])
+799
+torch.Size([1166, 480])
+825
+torch.Size([1338, 480])
+975
+torch.Size([543, 480])
+859
+torch.Size([416, 480])
+338
+torch.Size([445, 480])
+372
+torch.Size([2549, 480])
+594
+torch.Size([466, 480])
+424
+torch.Size([352, 480])
+293
+torch.Size([221, 480])
+705
+torch.Size([2221, 480])
+968
+torch.Size([410, 480])
+397
+torch.Size([462, 480])
+461
+torch.Size([463, 480])
+462
+torch.Size([318, 480])
+687
+torch.Size([810, 480])
+318
+torch.Size([341, 480])
+985
+torch.Size([626, 480])
+522
+torch.Size([444, 480])
+454
+torch.Size([766, 480])
+179
+torch.Size([502, 480])
+604
+torch.Size([1308, 480])
+558
+torch.Size([714, 480])
+661
+torch.Size([377, 480])
+852
+torch.Size([291, 480])
+2
+torch.Size([422, 480])
+286
+torch.Size([358, 480])
+302
+torch.Size([616, 480])
+886
+torch.Size([534, 480])
+460
+torch.Size([976, 480])
+337
+torch.Size([1021, 480])
+185
+torch.Size([435, 480])
+488
+torch.Size([1512, 480])
+699
+torch.Size([2022, 480])
+539
+torch.Size([367, 480])
+874
+torch.Size([1124, 480])
+258
+torch.Size([302, 480])
+220
+torch.Size([592, 480])
+347
+torch.Size([1342, 480])
+733
+torch.Size([1001, 480])
+700
+torch.Size([1445, 480])
+205
+torch.Size([421, 480])
+177
+torch.Size([481, 480])
+634
+torch.Size([623, 480])
+655
+torch.Size([668, 480])
+333
+torch.Size([407, 480])
+779
+torch.Size([365, 480])
+838
+torch.Size([493, 480])
+323
+torch.Size([488, 480])
+354
+torch.Size([631, 480])
+636
+torch.Size([419, 480])
+47
+torch.Size([505, 480])
+79
+torch.Size([395, 480])
+790
+torch.Size([859, 480])
+51
+torch.Size([473, 480])
+574
+torch.Size([290, 480])
+502
+torch.Size([238, 480])
+617
+torch.Size([426, 480])
+512
+torch.Size([108, 480])
+515
+torch.Size([521, 480])
+811
+torch.Size([984, 480])
+393
+torch.Size([468, 480])
+956
+torch.Size([617, 480])
+600
+torch.Size([371, 480])
+608
+torch.Size([436, 480])
+754
+torch.Size([567, 480])
+216
+torch.Size([839, 480])
+553
+torch.Size([838, 480])
+368
+torch.Size([852, 480])
+620
+torch.Size([381, 480])
+485
+torch.Size([260, 480])
+106
+torch.Size([261, 480])
+167
+torch.Size([452, 480])
+334
+torch.Size([375, 480])
+879
+torch.Size([250, 480])
+57
+torch.Size([135, 480])
+50
+torch.Size([477, 480])
+638
+torch.Size([446, 480])
+775
+torch.Size([404, 480])
+40
+torch.Size([205, 480])
+557
+torch.Size([592, 480])
+137
+torch.Size([380, 480])
+388
+torch.Size([427, 480])
+301
+torch.Size([310, 480])
+762
+torch.Size([223, 480])
+726
+torch.Size([497, 480])
+910
+torch.Size([614, 480])
+764
+torch.Size([360, 480])
+305
+torch.Size([690, 480])
+552
+torch.Size([1663, 480])
+487
+torch.Size([305, 480])
+593
+torch.Size([741, 480])
+389
+torch.Size([623, 480])
+391
+torch.Size([255, 480])
+542
+torch.Size([1215, 480])
+943
+torch.Size([456, 480])
+753
+torch.Size([387, 480])
+660
+torch.Size([368, 480])
+53
+torch.Size([732, 480])
+283
+torch.Size([451, 480])
+737
+torch.Size([869, 480])
+740
+torch.Size([477, 480])
+575
+torch.Size([474, 480])
+566
+torch.Size([400, 480])
+278
+torch.Size([765, 480])
+819
+torch.Size([155, 480])
+66
+torch.Size([530, 480])
+363
+torch.Size([794, 480])
+304
+torch.Size([779, 480])
+749
+torch.Size([487, 480])
+840
+torch.Size([604, 480])
+641
+torch.Size([445, 480])
+371
+torch.Size([465, 480])
+190
+torch.Size([341, 480])
+981
+torch.Size([358, 480])
+476
+torch.Size([390, 480])
+509
+torch.Size([398, 480])
+507
+torch.Size([415, 480])
+489
+torch.Size([406, 480])
+226
+torch.Size([407, 480])
+246
+torch.Size([445, 480])
+370
+torch.Size([479, 480])
+178
+torch.Size([402, 480])
+850
+torch.Size([407, 480])
+247
+torch.Size([396, 480])
+282
+torch.Size([479, 480])
+653
+torch.Size([337, 480])
+160
+torch.Size([372, 480])
+413
+torch.Size([471, 480])
+319
+torch.Size([486, 480])
+813
+torch.Size([328, 480])
+133
+torch.Size([475, 480])
+42
+torch.Size([390, 480])
+669
+torch.Size([461, 480])
+320
+torch.Size([332, 480])
+601
+torch.Size([391, 480])
+419
+torch.Size([362, 480])
+810
+torch.Size([479, 480])
+130
+torch.Size([386, 480])
+121
+torch.Size([370, 480])
+384
+torch.Size([367, 480])
+383
+torch.Size([370, 480])
+356
+torch.Size([595, 480])
+663
+torch.Size([590, 480])
+920
+torch.Size([359, 480])
+117
+torch.Size([470, 480])
+285
+torch.Size([368, 480])
+962
+torch.Size([389, 480])
+122
+torch.Size([400, 480])
+500
+torch.Size([440, 480])
+166
+torch.Size([490, 480])
+966
+torch.Size([359, 480])
+529
+torch.Size([427, 480])
+385
+torch.Size([464, 480])
+989
+torch.Size([418, 480])
+491
+torch.Size([359, 480])
+527
+torch.Size([391, 480])
+415
+torch.Size([369, 480])
+343
+torch.Size([391, 480])
+416
+torch.Size([402, 480])
+390
+torch.Size([1280, 480])
+237
+torch.Size([223, 480])
+727
+torch.Size([804, 480])
+847
+torch.Size([239, 480])
+103
+torch.Size([660, 480])
+300
+torch.Size([1162, 480])
+353
+torch.Size([300, 480])
+565
+torch.Size([300, 480])
+564
+torch.Size([1056, 480])
+171
+torch.Size([704, 480])
+154
+torch.Size([804, 480])
+731
+torch.Size([309, 480])
+640
+torch.Size([99, 480])
+579
+torch.Size([412, 480])
+719
+torch.Size([269, 480])
+914
+torch.Size([310, 480])
+48
+torch.Size([418, 480])
+756
+torch.Size([478, 480])
+609
+torch.Size([266, 480])
+906
+torch.Size([133, 480])
+953
+torch.Size([402, 480])
+233
+torch.Size([388, 480])
+235
+torch.Size([545, 480])
+77
+torch.Size([365, 480])
+514
+torch.Size([966, 480])
+129
+torch.Size([552, 480])
+468
+torch.Size([583, 480])
+238
+torch.Size([332, 480])
+189
+torch.Size([1390, 480])
+977
+torch.Size([1512, 480])
+34
+torch.Size([630, 480])
+709
+torch.Size([465, 480])
+126
+torch.Size([543, 480])
+605
+torch.Size([766, 480])
+43
+torch.Size([1215, 480])
+172
+torch.Size([416, 480])
+855
+torch.Size([1210, 480])
+170
+torch.Size([123, 480])
+801
+torch.Size([626, 480])
+521
+torch.Size([841, 480])
+679
+torch.Size([803, 480])
+732
+torch.Size([309, 480])
+916
+torch.Size([816, 480])
+76
+torch.Size([752, 480])
+1
+torch.Size([142, 480])
+431
+torch.Size([158, 480])
+532
+torch.Size([486, 480])
+774
+torch.Size([433, 480])
+403
+torch.Size([1400, 480])
+335
+torch.Size([445, 480])
+698
+torch.Size([740, 480])
+681
+torch.Size([479, 480])
+803
+torch.Size([355, 480])
+85
+torch.Size([870, 480])
+901
+torch.Size([360, 480])
+4
+torch.Size([288, 480])
+324
+torch.Size([1872, 480])
+482
+torch.Size([350, 480])
+410
+torch.Size([402, 480])
+701
+torch.Size([742, 480])
+231
+torch.Size([765, 480])
+89
+torch.Size([426, 480])
+127
+torch.Size([387, 480])
+52
+torch.Size([160, 480])
+614
+torch.Size([575, 480])
+221
+torch.Size([317, 480])
+991
+torch.Size([337, 480])
+176
+torch.Size([317, 480])
+629
+torch.Size([390, 480])
+201
+torch.Size([1686, 480])
+148
+torch.Size([522, 480])
+175
+torch.Size([433, 480])
+899
+torch.Size([430, 480])
+289
+torch.Size([323, 480])
+983
+torch.Size([527, 480])
+805
+torch.Size([1690, 480])
+102
+torch.Size([562, 480])
+157
+torch.Size([169, 480])
+143
+torch.Size([551, 480])
+87
+torch.Size([365, 480])
+395
+torch.Size([152, 480])
+131
+torch.Size([1007, 480])
+36
+torch.Size([204, 480])
+508
+torch.Size([507, 480])
+98
+torch.Size([136, 480])
+848
+torch.Size([303, 480])
+548
+torch.Size([778, 480])
+232
+torch.Size([770, 480])
+615
+torch.Size([357, 480])
+322
+torch.Size([264, 480])
+60
+torch.Size([413, 480])
+937
+torch.Size([264, 480])
+381
+torch.Size([470, 480])
+540
+torch.Size([316, 480])
+110
+torch.Size([480, 480])
+524
+torch.Size([614, 480])
+763
+torch.Size([434, 480])
+773
+torch.Size([1210, 480])
+766
+torch.Size([647, 480])
+759
+torch.Size([377, 480])
+309
+torch.Size([543, 480])
+656
+torch.Size([633, 480])
+545
+torch.Size([609, 480])
+580
+torch.Size([185, 480])
+467
+torch.Size([596, 480])
+186
+torch.Size([533, 480])
+83
+torch.Size([938, 480])
+887
+torch.Size([451, 480])
+795
+torch.Size([1288, 480])
+95
+torch.Size([506, 480])
+218
+torch.Size([424, 480])
+256
+torch.Size([436, 480])
+905
+torch.Size([631, 480])
+3
+torch.Size([313, 480])
+703
+torch.Size([756, 480])
+257
+torch.Size([141, 480])
+631
+torch.Size([1551, 480])
+377
+torch.Size([367, 480])
+611
+torch.Size([559, 480])
+144
+torch.Size([395, 480])
+204
+torch.Size([645, 480])
+596
+torch.Size([118, 480])
+210
+torch.Size([976, 480])
+741
+torch.Size([288, 480])
+902
+torch.Size([435, 480])
+346
+torch.Size([336, 480])
+71
+torch.Size([384, 480])
+560
+torch.Size([179, 480])
+8
+torch.Size([887, 480])
+447
+torch.Size([126, 480])
+56
+torch.Size([532, 480])
+329
+torch.Size([92, 480])
+808
+torch.Size([147, 480])
+1017
+torch.Size([926, 480])
+54
+torch.Size([264, 480])
+169
+torch.Size([372, 480])
+832
+torch.Size([1905, 480])
+345
+torch.Size([949, 480])
+379
+torch.Size([334, 480])
+184
+torch.Size([638, 480])
+788
+torch.Size([383, 480])
+904
+torch.Size([216, 480])
+947
+torch.Size([288, 480])
+9
+torch.Size([780, 480])
+908
+torch.Size([405, 480])
+849
+Namespace(root_data_path='../../data', dataset='bindingdb')
+../../data/bindingdb/protein/ exists
+752
+torch.Size([1205, 480])
+752
+362
+torch.Size([492, 480])
+362
+296
+torch.Size([604, 480])
+296
+718
+torch.Size([399, 480])
+718
+912
+torch.Size([132, 480])
+912
+584
+torch.Size([479, 480])
+584
+944
+torch.Size([405, 480])
+944
+646
+torch.Size([384, 480])
+646
+336
+torch.Size([685, 480])
+336
+831
+torch.Size([646, 480])
+831
+523
+torch.Size([625, 480])
+523
+695
+torch.Size([213, 480])
+695
+690
+torch.Size([508, 480])
+690
+559
+torch.Size([228, 480])
+559
+789
+torch.Size([493, 480])
+789
+710
+torch.Size([883, 480])
+710
+739
+torch.Size([451, 480])
+739
+632
+torch.Size([93, 480])
+632
+1014
+torch.Size([191, 480])
+1014
+804
+torch.Size([832, 480])
+804
+520
+torch.Size([262, 480])
+520
+602
+torch.Size([481, 480])
+602
+483
+torch.Size([355, 480])
+483
+193
+torch.Size([193, 480])
+193
+554
+torch.Size([148, 480])
+554
+359
+torch.Size([358, 480])
+359
+951
+torch.Size([528, 480])
+951
+708
+torch.Size([239, 480])
+708
+1020
+torch.Size([437, 480])
+1020
+591
+torch.Size([268, 480])
+591
+678
+torch.Size([586, 480])
+678
+889
+torch.Size([1590, 480])
+889
+123
+torch.Size([499, 480])
+123
+405
+torch.Size([383, 480])
+405
+630
+torch.Size([381, 480])
+630
+251
+torch.Size([176, 480])
+251
+888
+torch.Size([1647, 480])
+888
+150
+torch.Size([108, 480])
+150
+342
+torch.Size([389, 480])
+342
+945
+torch.Size([457, 480])
+945
+181
+torch.Size([452, 480])
+181
+786
+torch.Size([322, 480])
+786
+883
+torch.Size([233, 480])
+883
+909
+torch.Size([189, 480])
+909
+965
+torch.Size([272, 480])
+965
+341
+torch.Size([251, 480])
+341
+451
+torch.Size([138, 480])
+451
+115
+torch.Size([503, 480])
+115
+544
+torch.Size([908, 480])
+544
+35
+torch.Size([362, 480])
+35
+30
+torch.Size([358, 480])
+30
+215
+torch.Size([452, 480])
+215
+680
+torch.Size([1581, 480])
+680
+711
+torch.Size([1476, 480])
+711
+730
+torch.Size([308, 480])
+730
+32
+torch.Size([358, 480])
+32
+99
+torch.Size([116, 480])
+99
+501
+torch.Size([440, 480])
+501
+109
+torch.Size([369, 480])
+109
+769
+torch.Size([1208, 480])
+769
+152
+torch.Size([770, 480])
+152
+1008
+torch.Size([530, 480])
+1008
+561
+torch.Size([389, 480])
+561
+369
+torch.Size([875, 480])
+369
+949
+torch.Size([159, 480])
+949
+78
+torch.Size([837, 480])
+78
+649
+torch.Size([491, 480])
+649
+70
+torch.Size([336, 480])
+70
+1004
+torch.Size([117, 480])
+1004
+18
+torch.Size([300, 480])
+18
+720
+torch.Size([538, 480])
+720
+1016
+torch.Size([286, 480])
+1016
+853
+torch.Size([360, 480])
+853
+535
+torch.Size([178, 480])
+535
+525
+torch.Size([303, 480])
+525
+844
+torch.Size([399, 480])
+844
+734
+torch.Size([372, 480])
+734
+869
+torch.Size([1090, 480])
+869
+760
+torch.Size([1826, 480])
+760
+24
+torch.Size([341, 480])
+24
+330
+torch.Size([1276, 480])
+330
+537
+torch.Size([1170, 480])
+537
+298
+torch.Size([809, 480])
+298
+555
+torch.Size([531, 480])
+555
+833
+torch.Size([620, 480])
+833
+497
+torch.Size([489, 480])
+497
+610
+torch.Size([371, 480])
+610
+464
+torch.Size([215, 480])
+464
+5
+torch.Size([360, 480])
+5
+765
+torch.Size([614, 480])
+765
+891
+torch.Size([538, 480])
+891
+952
+torch.Size([396, 480])
+952
+206
+torch.Size([132, 480])
+206
+841
+torch.Size([847, 480])
+841
+637
+torch.Size([608, 480])
+637
+197
+torch.Size([217, 480])
+197
+697
+torch.Size([341, 480])
+697
+124
+torch.Size([339, 480])
+124
+738
+torch.Size([445, 480])
+738
+516
+torch.Size([676, 480])
+516
+864
+torch.Size([101, 480])
+864
+517
+torch.Size([602, 480])
+517
+../../data/bindingdb/protein/ exists
+174
+torch.Size([766, 480])
+Traceback (most recent call last):
+  File "/nfs/my/lxc/2025.11/PMMR/preprocessing/protein_pretrain/protein_dti.py", line 82, in <module>
+    generate_feature(params)
+  File "/nfs/my/lxc/2025.11/PMMR/preprocessing/protein_pretrain/protein_dti.py", line 64, in generate_feature
+    np.save(f'{output_data_path}/{o}/' + id, seq_emb)
+  File "/home/jovyan/miniconda/envs/pmmr/lib/python3.9/site-packages/numpy/lib/npyio.py", line 542, in save
+    file_ctx = open(file, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: '../../data/bindingdb/protein//test/174.npy'
+Namespace(root_data_path='../../data', dataset='bindingdb')
+../../data/bindingdb/protein exists
+../../data/bindingdb/protein exists
+174
+torch.Size([766, 480])
+Traceback (most recent call last):
+  File "/nfs/my/lxc/2025.11/PMMR/preprocessing/protein_pretrain/protein_dti.py", line 82, in <module>
+    generate_feature(params)
+  File "/nfs/my/lxc/2025.11/PMMR/preprocessing/protein_pretrain/protein_dti.py", line 64, in generate_feature
+    np.save(f'{output_data_path}/{o}/' + id, seq_emb)
+  File "/home/jovyan/miniconda/envs/pmmr/lib/python3.9/site-packages/numpy/lib/npyio.py", line 542, in save
+    file_ctx = open(file, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: '../../data/bindingdb/protein/test/174.npy'
+Namespace(root_data_path='../../data', dataset='bindingdb')
+../../data/bindingdb/protein exists
+../../data/bindingdb/protein exists
+174
+torch.Size([766, 480])
+174
+589
+torch.Size([311, 480])
+589
+447
+torch.Size([282, 480])
+447
+913
+torch.Size([159, 480])
+913
+33
+torch.Size([766, 480])
+33
+280
+torch.Size([217, 480])
+280
+365
+torch.Size([976, 480])
+365
+144
+torch.Size([770, 480])
+144
+152
+torch.Size([1360, 480])
+152
+866
+torch.Size([766, 480])
+866
+777
+torch.Size([527, 480])
+777
+263
+torch.Size([675, 480])
+263
+654
+torch.Size([138, 480])
+654
+347
+torch.Size([1104, 480])
+347
+564
+torch.Size([388, 480])
+564
+834
+torch.Size([1388, 480])
+834
+96
+torch.Size([283, 480])
+96
+802
+torch.Size([260, 480])
+802
+269
+torch.Size([839, 480])
+269
+680
+torch.Size([671, 480])
+680
+173
+torch.Size([479, 480])
+173
+292
+torch.Size([661, 480])
+292
+657
+torch.Size([1044, 480])
+657
+460
+torch.Size([913, 480])
+460
+136
+torch.Size([1124, 480])
+136
+848
+torch.Size([752, 480])
+848
+127
+torch.Size([966, 480])
+127
+253
+torch.Size([1124, 480])
+253
+295
+torch.Size([929, 480])
+295
+818
+torch.Size([545, 480])
+818
+970
+torch.Size([530, 480])
+970
+757
+torch.Size([1711, 480])
+757
+76
+torch.Size([533, 480])
+76
+800
+torch.Size([819, 480])
+800
+525
+torch.Size([282, 480])
+525
+877
+torch.Size([436, 480])
+877
+948
+torch.Size([1138, 480])
+948
+912
+torch.Size([455, 480])
+912
+691
+torch.Size([1154, 480])
+691
+731
+torch.Size([1210, 480])
+731
+652
+torch.Size([1187, 480])
+652
+773
+torch.Size([480, 480])
+773
+956
+torch.Size([463, 480])
+956
+555
+torch.Size([1130, 480])
+555
+34
+torch.Size([766, 480])
+34
+262
+torch.Size([462, 480])
+262
+243
+torch.Size([407, 480])
+243
+156
+torch.Size([2527, 480])
+156
+297
+torch.Size([388, 480])
+297
+646
+torch.Size([393, 480])
+646
+796
+torch.Size([420, 480])
+796
+659
+torch.Size([1068, 480])
+659
+675
+torch.Size([630, 480])
+675
+662
+torch.Size([532, 480])
+662
+863
+torch.Size([424, 480])
+863
+707
+torch.Size([976, 480])
+707
+206
+torch.Size([231, 480])
+206
+287
+torch.Size([802, 480])
+287
+508
+torch.Size([158, 480])
+508
+901
+torch.Size([337, 480])
+901
+530
+torch.Size([1308, 480])
+530
+282
+torch.Size([358, 480])
+282
+319
+torch.Size([416, 480])
+319
+510
+torch.Size([1390, 480])
+510
+151
+torch.Size([942, 480])
+151
+728
+torch.Size([614, 480])
+728
+236
+torch.Size([733, 480])
+236
+147
+torch.Size([385, 480])
+147
+774
+torch.Size([479, 480])
+774
+140
+torch.Size([1686, 480])
+140
+874
+torch.Size([512, 480])
+874
+702
+torch.Size([869, 480])
+702
+696
+torch.Size([1342, 480])
+696
+914
+torch.Size([1430, 480])
+914
+55
+torch.Size([514, 480])
+55
+630
+torch.Size([993, 480])
+630
+48
+torch.Size([163, 480])
+48
+620
+torch.Size([323, 480])
+620
+546
+torch.Size([609, 480])
+546
+711
+torch.Size([481, 480])
+711
+945
+torch.Size([737, 480])
+945
+182
+torch.Size([1382, 480])
+182
+238
+torch.Size([369, 480])
+238
+762
+torch.Size([912, 480])
+762
+407
+torch.Size([1620, 480])
+407
+275
+torch.Size([568, 480])
+275
+592
+torch.Size([772, 480])
+592
+623
+torch.Size([460, 480])
+623
+590
+torch.Size([601, 480])
+590
+871
+torch.Size([870, 480])
+871
+27
+torch.Size([1007, 480])
+27
+59
+torch.Size([1013, 480])
+59
+159
+torch.Size([984, 480])
+159
+891
+torch.Size([406, 480])
+891
+627
+torch.Size([595, 480])
+627
+83
+torch.Size([712, 480])
+83
+35
+torch.Size([399, 480])
+35
+561
+torch.Size([2549, 480])
+561
+409
+torch.Size([806, 480])
+409
+385
+torch.Size([433, 480])
+385
+591
+torch.Size([448, 480])
+591
+417
+torch.Size([864, 480])
+417
+719
+torch.Size([436, 480])
+719
+239
+torch.Size([305, 480])
+239
+420
+torch.Size([795, 480])
+420
+653
+torch.Size([137, 480])
+653
+857
+torch.Size([616, 480])
+857
+341
+torch.Size([1050, 480])
+341
+886
+torch.Size([561, 480])
+886
+722
+torch.Size([1106, 480])
+722
+413
+torch.Size([512, 480])
+413
+450
+torch.Size([1132, 480])
+450
+953
+torch.Size([343, 480])
+953
+332
+torch.Size([298, 480])
+332
+842
+torch.Size([683, 480])
+842
+222
+torch.Size([563, 480])
+222
+178
+torch.Size([970, 480])
+178
+153
+torch.Size([337, 480])
+153
+442
+torch.Size([648, 480])
+442
+71
+torch.Size([1014, 480])
+71
+28
+torch.Size([1052, 480])
+28
+141
+torch.Size([344, 480])
+141
+110
+torch.Size([503, 480])
+110
+710
+torch.Size([1037, 480])
+710
+368
+torch.Size([2168, 480])
+368
+265
+torch.Size([396, 480])
+265
+102
+torch.Size([369, 480])
+102
+522
+torch.Size([1161, 480])
+522
+537
+torch.Size([472, 480])
+537
+843
+torch.Size([800, 480])
+843
+298
+torch.Size([648, 480])
+298
+940
+torch.Size([465, 480])
+940
+203
+torch.Size([469, 480])
+203
+220
+torch.Size([340, 480])
+220
+754
+torch.Size([629, 480])
+754
+25
+torch.Size([1512, 480])
+25
+105
+torch.Size([1114, 480])
+105
+304
+torch.Size([493, 480])
+304
+870
+torch.Size([756, 480])
+870
+835
+torch.Size([372, 480])
+835
+84
+torch.Size([1649, 480])
+84
+785
+torch.Size([740, 480])
+785
+726
+torch.Size([1088, 480])
+726
+629
+torch.Size([1235, 480])
+629
+396
+torch.Size([391, 480])
+396
+594
+torch.Size([317, 480])
+594
+836
+torch.Size([427, 480])
+836
+397
+torch.Size([391, 480])
+397
+318
+torch.Size([976, 480])
+318
+850
+torch.Size([822, 480])
+850
+190
+torch.Size([558, 480])
+190
+90
+torch.Size([313, 480])
+90
+179
+torch.Size([334, 480])
+179
+312
+torch.Size([1102, 480])
+312
+472
+torch.Size([1182, 480])
+472
+405
+torch.Size([467, 480])
+405
+682
+torch.Size([1038, 480])
+682
+649
+torch.Size([740, 480])
+649
+217
+torch.Size([626, 480])
+217
+367
+torch.Size([857, 480])
+367
+962
+torch.Size([181, 480])
+962
+813
+torch.Size([1311, 480])
+813
+609
+torch.Size([620, 480])
+609
+569
+torch.Size([462, 480])
+569
+371
+torch.Size([628, 480])
+371
+356
+torch.Size([445, 480])
+356
+164
+torch.Size([261, 480])
+164
+713
+torch.Size([484, 480])
+713
+643
+torch.Size([499, 480])
+643
+383
+torch.Size([487, 480])
+383
+574
+torch.Size([326, 480])
+574
+406
+torch.Size([477, 480])
+406
+68
+torch.Size([816, 480])
+68
+551
+torch.Size([400, 480])
+551
+81
+torch.Size([626, 480])
+81
+839
+torch.Size([588, 480])
+839
+52
+torch.Size([250, 480])
+52
+868
+torch.Size([520, 480])
+868
+171
+torch.Size([421, 480])
+171
+213
+torch.Size([367, 480])
+213
+455
+torch.Size([762, 480])
+455
+832
+torch.Size([543, 480])
+832
+801
+torch.Size([1009, 480])
+801
+146
+torch.Size([998, 480])
+146
+922
+torch.Size([616, 480])
+922
+714
+torch.Size([779, 480])
+714
+100
+torch.Size([416, 480])
+100
+756
+torch.Size([150, 480])
+756
+215
+torch.Size([619, 480])
+215
+907
+torch.Size([736, 480])
+907
+205
+torch.Size([502, 480])
+205
+154
+torch.Size([506, 480])
+154
+656
+torch.Size([199, 480])
+656
+429
+torch.Size([822, 480])
+429
+856
+torch.Size([1354, 480])
+856
+535
+torch.Size([1130, 480])
+535
+558
+torch.Size([370, 480])
+558
+149
+torch.Size([556, 480])
+149
+791
+torch.Size([1732, 480])
+791
+150
+torch.Size([562, 480])
+150
+949
+torch.Size([544, 480])
+949
+428
+torch.Size([822, 480])
+428
+374
+torch.Size([402, 480])
+374
+299
+torch.Size([810, 480])
+299
+895
+torch.Size([587, 480])
+895
+247
+torch.Size([518, 480])
+247
+507
+torch.Size([414, 480])
+507
+250
+torch.Size([403, 480])
+250
+166
+torch.Size([1215, 480])
+166
+352
+torch.Size([491, 480])
+352
+135
+torch.Size([459, 480])
+135
+849
+torch.Size([1634, 480])
+849
+137
+torch.Size([1198, 480])
+137
+632
+torch.Size([977, 480])
+632
+221
+torch.Size([415, 480])
+221
+434
+torch.Size([526, 480])
+434
+954
+torch.Size([822, 480])
+954
+755
+torch.Size([450, 480])
+755
+918
+torch.Size([133, 480])
+918
+187
+torch.Size([454, 480])
+187
+401
+torch.Size([391, 480])
+401
+586
+torch.Size([216, 480])
+586
+487
+torch.Size([390, 480])
+487
+331
+torch.Size([592, 480])
+331
+753
+torch.Size([1362, 480])
+753
+604
+torch.Size([540, 480])
+604
+357
+torch.Size([445, 480])
+357
+109
+torch.Size([984, 480])
+109
+463
+torch.Size([972, 480])
+463
+689
+torch.Size([729, 480])
+689
+784
+torch.Size([1235, 480])
+784
+695
+torch.Size([803, 480])
+695
+674
+torch.Size([1159, 480])
+674
+185
+torch.Size([332, 480])
+185
+810
+torch.Size([464, 480])
+810
+321
+torch.Size([987, 480])
+321
+189
+torch.Size([303, 480])
+189
+837
+torch.Size([788, 480])
+837
+315
+torch.Size([447, 480])
+315
+237
+torch.Size([519, 480])
+237
+451
+torch.Size([351, 480])
+451
+894
+torch.Size([590, 480])
+894
+270
+torch.Size([833, 480])
+270
+168
+torch.Size([635, 480])
+168
+853
+torch.Size([1374, 480])
+853
+358
+torch.Size([445, 480])
+358
+254
+torch.Size([380, 480])
+254
+744
+torch.Size([486, 480])
+744
+935
+torch.Size([165, 480])
+935
+685
+torch.Size([496, 480])
+685
+758
+torch.Size([638, 480])
+758
+941
+torch.Size([451, 480])
+941
+106
+torch.Size([372, 480])
+106
+920
+torch.Size([553, 480])
+920
+9
+torch.Size([300, 480])
+9
+77
+torch.Size([359, 480])
+77
+614
+torch.Size([515, 480])
+614
+931
+torch.Size([926, 480])
+931
+576
+torch.Size([371, 480])
+576
+423
+torch.Size([1914, 480])
+423
+650
+torch.Size([735, 480])
+650
+585
+torch.Size([796, 480])
+585
+400
+torch.Size([681, 480])
+400
+324
+torch.Size([412, 480])
+324
+259
+torch.Size([443, 480])
+259
+473
+torch.Size([567, 480])
+473
+354
+torch.Size([441, 480])
+354
+845
+torch.Size([416, 480])
+845
+453
+torch.Size([351, 480])
+453
+581
+torch.Size([745, 480])
+581
+840
+torch.Size([778, 480])
+840
+195
+torch.Size([1297, 480])
+195
+688
+torch.Size([716, 480])
+688
+799
+torch.Size([444, 480])
+799
+715
+torch.Size([898, 480])
+715
+950
+torch.Size([341, 480])
+950
+642
+torch.Size([350, 480])
+642
+402
+torch.Size([513, 480])
+402
+504
+torch.Size([359, 480])
+504
+412
+torch.Size([543, 480])
+412
+925
+torch.Size([783, 480])
+925
+419
+torch.Size([783, 480])
+419
+959
+torch.Size([317, 480])
+959
+197
+torch.Size([390, 480])
+197
+216
+torch.Size([506, 480])
+216
+4
+torch.Size([305, 480])
+4
+337
+torch.Size([646, 480])
+337
+865
+torch.Size([688, 480])
+865
+924
+torch.Size([288, 480])
+924
+855
+torch.Size([454, 480])
+855
+181
+torch.Size([596, 480])
+181
+111
+torch.Size([820, 480])
+111
+346
+torch.Size([425, 480])
+346
+618
+torch.Size([632, 480])
+618
+572
+torch.Size([502, 480])
+572
+778
+torch.Size([473, 480])
+778
+60
+torch.Size([155, 480])
+60
+633
+torch.Size([598, 480])
+633
+580
+torch.Size([666, 480])
+580
+307
+torch.Size([1258, 480])
+307
+24
+torch.Size([379, 480])
+24
+478
+torch.Size([536, 480])
+478
+286
+torch.Size([954, 480])
+286
+320
+torch.Size([415, 480])
+320
+809
+torch.Size([527, 480])
+809
+563
+torch.Size([645, 480])
+563
+306
+torch.Size([1315, 480])
+306
+62
+torch.Size([587, 480])
+62
+817
+torch.Size([505, 480])
+817
+128
+torch.Size([152, 480])
+128
+165
+torch.Size([1210, 480])
+165
+411
+torch.Size([509, 480])
+411
+484
+torch.Size([410, 480])
+484
+823
+torch.Size([706, 480])
+823
+470
+torch.Size([413, 480])
+470
+86
+torch.Size([596, 480])
+86
+408
+torch.Size([396, 480])
+408
+191
+torch.Size([666, 480])
+191
+601
+torch.Size([631, 480])
+601
+638
+torch.Size([732, 480])
+638
+266
+torch.Size([732, 480])
+266
+751
+torch.Size([603, 480])
+751
+114
+torch.Size([1055, 480])
+114
+943
+torch.Size([821, 480])
+943
+860
+torch.Size([753, 480])
+860
+305
+torch.Size([288, 480])
+305
+619
+torch.Size([623, 480])
+619
+828
+torch.Size([233, 480])
+828
+70
+torch.Size([505, 480])
+70
+477
+torch.Size([1689, 480])
+477
+63
+torch.Size([552, 480])
+63
+184
+torch.Size([478, 480])
+184
+422
+torch.Size([816, 480])
+422
+427
+torch.Size([505, 480])
+427
+820
+torch.Size([136, 480])
+820
+98
+torch.Size([3969, 480])
+98
+797
+torch.Size([1166, 480])
+797
+325
+torch.Size([369, 480])
+325
+430
+torch.Size([1036, 480])
+430
+75
+torch.Size([968, 480])
+75
+639
+torch.Size([724, 480])
+639
+700
+torch.Size([451, 480])
+700
+677
+torch.Size([292, 480])
+677
+672
+torch.Size([638, 480])
+672
+130
+torch.Size([328, 480])
+130
+82
+torch.Size([765, 480])
+82
+390
+torch.Size([591, 480])
+390
+193
+torch.Size([476, 480])
+193
+488
+torch.Size([1089, 480])
+488
+861
+torch.Size([482, 480])
+861
+616
+torch.Size([894, 480])
+616
+884
+torch.Size([497, 480])
+884
+493
+torch.Size([108, 480])
+493
+249
+torch.Size([496, 480])
+249
+825
+torch.Size([360, 480])
+825
+794
+torch.Size([391, 480])
+794
+421
+torch.Size([1332, 480])
+421
+41
+torch.Size([659, 480])
+41
+492
+torch.Size([365, 480])
+492
+344
+torch.Size([847, 480])
+344
+108
+torch.Size([346, 480])
+108
+0
+torch.Size([179, 480])
+0
+790
+torch.Size([254, 480])
+790
+596
+torch.Size([557, 480])
+596
+503
+torch.Size([855, 480])
+503
+469
+torch.Size([415, 480])
+469
+562
+torch.Size([2027, 480])
+562
+958
+torch.Size([377, 480])
+958
+944
+torch.Size([1338, 480])
+944
+893
+torch.Size([503, 480])
+893
+32
+torch.Size([647, 480])
+32
+536
+torch.Size([1367, 480])
+536
+833
+torch.Size([262, 480])
+833
+123
+torch.Size([464, 480])
+123
+764
+torch.Size([795, 480])
+764
+167
+torch.Size([316, 480])
+167
+919
+torch.Size([509, 480])
+919
+669
+torch.Size([1512, 480])
+669
+459
+torch.Size([999, 480])
+459
+699
+torch.Size([1608, 480])
+699
+39
+torch.Size([419, 480])
+39
+740
+torch.Size([229, 480])
+740
+204
+torch.Size([1070, 480])
+204
+575
+torch.Size([313, 480])
+575
+660
+torch.Size([326, 480])
+660
+300
+torch.Size([613, 480])
+300
+56
+torch.Size([672, 480])
+56
+491
+torch.Size([426, 480])
+491
+724
+torch.Size([647, 480])
+724
+474
+torch.Size([476, 480])
+474
+235
+torch.Size([952, 480])
+235
+272
+torch.Size([502, 480])
+272
+278
+torch.Size([503, 480])
+278
+838
+torch.Size([293, 480])
+838
+720
+torch.Size([802, 480])
+720
+175
+torch.Size([499, 480])
+175
+79
+torch.Size([551, 480])
+79
+668
+torch.Size([445, 480])
+668
+350
+torch.Size([86, 480])
+350
+648
+torch.Size([841, 480])
+648
+283
+torch.Size([846, 480])
+283
+65
+torch.Size([1127, 480])
+65
+314
+torch.Size([452, 480])
+314
+194
+torch.Size([629, 480])
+194
+497
+torch.Size([763, 480])
+497
+373
+torch.Size([380, 480])
+373
+769
+torch.Size([524, 480])
+769
+91
+torch.Size([507, 480])
+91
+177
+torch.Size([878, 480])
+177
+361
+torch.Size([655, 480])
+361
+670
+torch.Size([1001, 480])
+670
+938
+torch.Size([460, 480])
+938
+351
+torch.Size([490, 480])
+351
+676
+torch.Size([1476, 480])
+676
+212
+torch.Size([983, 480])
+212
+761
+torch.Size([890, 480])
+761
+389
+torch.Size([719, 480])
+389
+133
+torch.Size([674, 480])
+133
+502
+torch.Size([303, 480])
+502
+47
+torch.Size([926, 480])
+47
+273
+torch.Size([464, 480])
+273
+608
+torch.Size([131, 480])
+608
+382
+torch.Size([630, 480])
+382
+458
+torch.Size([835, 480])
+458
+811
+torch.Size([365, 480])
+811
+418
+torch.Size([772, 480])
+418
+743
+torch.Size([434, 480])
+743
+939
+torch.Size([441, 480])
+939
+1
+torch.Size([291, 480])
+1
+363
+torch.Size([359, 480])
+363
+301
+torch.Size([471, 480])
+301
+201
+torch.Size([1445, 480])
+201
+930
+torch.Size([490, 480])
+930
+115
+torch.Size([890, 480])
+115
+448
+torch.Size([505, 480])
+448
+864
+torch.Size([979, 480])
+864
+124
+torch.Size([465, 480])
+124
+640
+torch.Size([611, 480])
+640
+256
+torch.Size([380, 480])
+256
+316
+torch.Size([1400, 480])
+316
+905
+torch.Size([387, 480])
+905
+599
+torch.Size([481, 480])
+599
+218
+torch.Size([302, 480])
+218
+786
+torch.Size([488, 480])
+786
+666
+torch.Size([157, 480])
+666
+125
+torch.Size([426, 480])
+125
+827
+torch.Size([334, 480])
+827
+532
+torch.Size([384, 480])
+532
+467
+torch.Size([435, 480])
+467
+792
+torch.Size([483, 480])
+792
+686
+torch.Size([1363, 480])
+686
+296
+torch.Size([505, 480])
+296
+584
+torch.Size([801, 480])
+584
+172
+torch.Size([353, 480])
+172
+437
+torch.Size([534, 480])
+437
+805
+torch.Size([646, 480])
+805
+214
+torch.Size([567, 480])
+214
+132
+torch.Size([676, 480])
+132
+416
+torch.Size([537, 480])
+416
+518
+torch.Size([157, 480])
+518
+290
+torch.Size([377, 480])
+290
+142
+torch.Size([108, 480])
+142
+746
+torch.Size([497, 480])
+746
+808
+torch.Size([619, 480])
+808
+446
+torch.Size([552, 480])
+446
+631
+torch.Size([1263, 480])
+631
+851
+torch.Size([606, 480])
+851
+415
+torch.Size([529, 480])
+415
+392
+torch.Size([481, 480])
+392
+565
+torch.Size([473, 480])
+565
+942
+torch.Size([465, 480])
+942
+742
+torch.Size([525, 480])
+742
+468
+torch.Size([511, 480])
+468
+725
+torch.Size([312, 480])
+725
+435
+torch.Size([305, 480])
+435
+293
+torch.Size([389, 480])
+293
+465
+torch.Size([425, 480])
+465
+72
+torch.Size([695, 480])
+72
+208
+torch.Size([491, 480])
+208
+606
+torch.Size([472, 480])
+606
+645
+torch.Size([412, 480])
+645
+170
+torch.Size([337, 480])
+170
+232
+torch.Size([708, 480])
+232
+526
+torch.Size([531, 480])
+526
+87
+torch.Size([1288, 480])
+87
+334
+torch.Size([447, 480])
+334
+226
+torch.Size([422, 480])
+226
+311
+torch.Size([578, 480])
+311
+199
+torch.Size([894, 480])
+199
+846
+torch.Size([367, 480])
+846
+499
+torch.Size([626, 480])
+499
+122
+torch.Size([339, 480])
+122
+42
+torch.Size([135, 480])
+42
+395
+torch.Size([1616, 480])
+395
+61
+torch.Size([721, 480])
+61
+399
+torch.Size([370, 480])
+399
+393
+torch.Size([370, 480])
+393
+906
+torch.Size([1038, 480])
+906
+593
+torch.Size([359, 480])
+593
+143
+torch.Size([482, 480])
+143
+95
+torch.Size([239, 480])
+95
+665
+torch.Size([354, 480])
+665
+433
+torch.Size([384, 480])
+433
+23
+torch.Size([358, 480])
+23
+126
+torch.Size([1239, 480])
+126
+971
+torch.Size([530, 480])
+971
+529
+torch.Size([2347, 480])
+529
+534
+torch.Size([331, 480])
+534
+414
+torch.Size([524, 480])
+414
+663
+torch.Size([184, 480])
+663
+787
+torch.Size([646, 480])
+787
+97
+torch.Size([426, 480])
+97
+88
+torch.Size([472, 480])
+88
+308
+torch.Size([1255, 480])
+308
+821
+torch.Size([405, 480])
+821
+600
+torch.Size([232, 480])
+600
+624
+torch.Size([460, 480])
+624
+131
+torch.Size([1005, 480])
+131
+19
+torch.Size([360, 480])
+19
+36
+torch.Size([583, 480])
+36
+973
+torch.Size([99, 480])
+973
+607
+torch.Size([460, 480])
+607
+557
+torch.Size([499, 480])
+557
+85
+torch.Size([986, 480])
+85
+772
+torch.Size([123, 480])
+772
+294
+torch.Size([832, 480])
+294
+750
+torch.Size([407, 480])
+750
+779
+torch.Size([671, 480])
+779
+739
+torch.Size([559, 480])
+739
+542
+torch.Size([472, 480])
+542
+543
+torch.Size([477, 480])
+543
+727
+torch.Size([614, 480])
+727
+513
+torch.Size([2022, 480])
+513
+360
+torch.Size([759, 480])
+360
+521
+torch.Size([523, 480])
+521
+550
+torch.Size([604, 480])
+550
+202
+torch.Size([132, 480])
+202
+612
+torch.Size([466, 480])
+612
+160
+torch.Size([462, 480])
+160
+271
+torch.Size([430, 480])
+271
+386
+torch.Size([1036, 480])
+386
+410
+torch.Size([142, 480])
+410
+323
+torch.Size([389, 480])
+323
+847
+torch.Size([309, 480])
+847
+180
+torch.Size([1021, 480])
+180
+768
+torch.Size([559, 480])
+768
+364
+torch.Size([1551, 480])
+364
+928
+torch.Size([466, 480])
+928
+161
+torch.Size([462, 480])
+161
+317
+torch.Size([685, 480])
+317
+378
+torch.Size([984, 480])
+378
+765
+torch.Size([567, 480])
+765
+432
+torch.Size([414, 480])
+432
+568
+torch.Size([481, 480])
+568
+793
+torch.Size([364, 480])
+793
+40
+torch.Size([310, 480])
+40
+134
+torch.Size([533, 480])
+134
+369
+torch.Size([1313, 480])
+369
+567
+torch.Size([332, 480])
+567
+771
+torch.Size([1570, 480])
+771
+626
+torch.Size([714, 480])
+626
+634
+torch.Size([619, 480])
+634
+372
+torch.Size([347, 480])
+372
+965
+torch.Size([123, 480])
+965
+376
+torch.Size([623, 480])
+376
+342
+torch.Size([370, 480])
+342
+139
+torch.Size([501, 480])
+139
+343
+torch.Size([364, 480])
+343
+362
+torch.Size([745, 480])
+362
+520
+torch.Size([961, 480])
+520
+737
+torch.Size([1210, 480])
+737
+424
+torch.Size([1906, 480])
+424
+697
+torch.Size([372, 480])
+697
+101
+torch.Size([622, 480])
+101
+233
+torch.Size([1280, 480])
+233
+211
+torch.Size([544, 480])
+211
+303
+torch.Size([357, 480])
+303
+527
+torch.Size([531, 480])
+527
+902
+torch.Size([413, 480])
+902
+274
+torch.Size([352, 480])
+274
+80
+torch.Size([349, 480])
+80
+545
+torch.Size([457, 480])
+545
+30
+torch.Size([765, 480])
+30
+436
+torch.Size([418, 480])
+436
+932
+torch.Size([2221, 480])
+932
+340
+torch.Size([488, 480])
+340
+880
+torch.Size([933, 480])
+880
+844
+torch.Size([1328, 480])
+844
+219
+torch.Size([575, 480])
+219
+512
+torch.Size([651, 480])
+512
+709
+torch.Size([3046, 480])
+709
+66
+torch.Size([2442, 480])
+66
+869
+torch.Size([433, 480])
+869
+379
+torch.Size([365, 480])
+379
+244
+torch.Size([443, 480])
+244
+176
+torch.Size([452, 480])
+176
+310
+torch.Size([532, 480])
+310
+44
+torch.Size([1153, 480])
+44
+505
+torch.Size([359, 480])
+505
+588
+torch.Size([400, 480])
+588
+506
+torch.Size([527, 480])
+506
+43
+torch.Size([859, 480])
+43
+929
+torch.Size([272, 480])
+929
+705
+torch.Size([976, 480])
+705
+169
+torch.Size([522, 480])
+169
+814
+torch.Size([487, 480])
+814
+200
+torch.Size([488, 480])
+200
+909
+torch.Size([405, 480])
+909
+69
+torch.Size([545, 480])
+69
+770
+torch.Size([424, 480])
+770
+923
+torch.Size([187, 480])
+923
+345
+torch.Size([358, 480])
+345
+684
+torch.Size([538, 480])
+684
+53
+torch.Size([268, 480])
+53
+471
+torch.Size([418, 480])
+471
+517
+torch.Size([1030, 480])
+517
+687
+torch.Size([1356, 480])
+687
+888
+torch.Size([264, 480])
+888
+13
+torch.Size([300, 480])
+13
+155
+torch.Size([135, 480])
+155
+934
+torch.Size([458, 480])
+934
+148
+torch.Size([2005, 480])
+148
+391
+torch.Size([350, 480])
+391
+403
+torch.Size([384, 480])
+403
+904
+torch.Size([251, 480])
+904
+852
+torch.Size([726, 480])
+852
+602
+torch.Size([608, 480])
+602
+952
+torch.Size([323, 480])
+952
+854
+torch.Size([233, 480])
+854
+903
+torch.Size([461, 480])
+903
+911
+torch.Size([216, 480])
+911
+327
+torch.Size([845, 480])
+327
+313
+torch.Size([668, 480])
+313
+587
+torch.Size([852, 480])
+587
+224
+torch.Size([162, 480])
+224
+553
+torch.Size([390, 480])
+553
+186
+torch.Size([465, 480])
+186
+763
+torch.Size([388, 480])
+763
+936
+torch.Size([332, 480])
+936
+899
+torch.Size([405, 480])
+899
+449
+torch.Size([662, 480])
+449
+45
+torch.Size([387, 480])
+45
+889
+torch.Size([269, 480])
+889
+2
+torch.Size([631, 480])
+2
+788
+torch.Size([424, 480])
+788
+910
+torch.Size([626, 480])
+910
+138
+torch.Size([408, 480])
+138
+908
+torch.Size([1215, 480])
+908
+658
+torch.Size([508, 480])
+658
+252
+torch.Size([756, 480])
+252
+878
+torch.Size([175, 480])
+878
+733
+torch.Size([1210, 480])
+733
+523
+torch.Size([690, 480])
+523
+490
+torch.Size([160, 480])
+490
+812
+torch.Size([522, 480])
+812
+732
+torch.Size([1210, 480])
+732
+729
+torch.Size([1208, 480])
+729
+673
+torch.Size([221, 480])
+673
+158
+torch.Size([135, 480])
+158
+915
+torch.Size([528, 480])
+915
+498
+torch.Size([262, 480])
+498
+456
+torch.Size([181, 480])
+456
+388
+torch.Size([145, 480])
+388
+443
+torch.Size([597, 480])
+443
+31
+torch.Size([404, 480])
+31
+560
+torch.Size([305, 480])
+560
+841
+torch.Size([848, 480])
+841
+916
+torch.Size([396, 480])
+916
+566
+torch.Size([617, 480])
+566
+730
+torch.Size([1210, 480])
+730
+867
+torch.Size([533, 480])
+867
+284
+torch.Size([427, 480])
+284
+776
+torch.Size([398, 480])
+776
+231
+torch.Size([245, 480])
+231
+539
+torch.Size([472, 480])
+539
+29
+torch.Size([1090, 480])
+29
+309
+torch.Size([349, 480])
+309
+578
+torch.Size([371, 480])
+578
+329
+torch.Size([435, 480])
+329
+335
+torch.Size([401, 480])
+335
+822
+torch.Size([402, 480])
+822
+209
+torch.Size([118, 480])
+209
+431
+torch.Size([444, 480])
+431
+78
+torch.Size([355, 480])
+78
+12
+torch.Size([300, 480])
+12
+974
+torch.Size([191, 480])
+974
+641
+torch.Size([1296, 480])
+641
+921
+torch.Size([468, 480])
+921
+162
+torch.Size([706, 480])
+162
+210
+torch.Size([1484, 480])
+210
+946
+torch.Size([1390, 480])
+946
+826
+torch.Size([416, 480])
+826
+466
+torch.Size([1663, 480])
+466
+789
+torch.Size([765, 480])
+789
+514
+torch.Size([470, 480])
+514
+749
+torch.Size([347, 480])
+749
+426
+torch.Size([1537, 480])
+426
+960
+torch.Size([168, 480])
+960
+782
+torch.Size([441, 480])
+782
+464
+torch.Size([381, 480])
+464
+968
+torch.Size([125, 480])
+968
+3
+torch.Size([274, 480])
+3
+548
+torch.Size([207, 480])
+548
+257
+torch.Size([380, 480])
+257
+644
+torch.Size([332, 480])
+644
+613
+torch.Size([491, 480])
+613
+975
+torch.Size([259, 480])
+975
+64
+torch.Size([336, 480])
+64
+67
+torch.Size([2414, 480])
+67
+489
+torch.Size([1214, 480])
+489
+94
+torch.Size([794, 480])
+94
+261
+torch.Size([398, 480])
+261
+873
+torch.Size([288, 480])
+873
+692
+torch.Size([431, 480])
+692
+881
+torch.Size([373, 480])
+881
+516
+torch.Size([1341, 480])
+516
+540
+torch.Size([472, 480])
+540
+73
+torch.Size([354, 480])
+73
+483
+torch.Size([290, 480])
+483
+11
+torch.Size([300, 480])
+11
+93
+torch.Size([1690, 480])
+93
+667
+torch.Size([341, 480])
+667
+223
+torch.Size([354, 480])
+223
+767
+torch.Size([117, 480])
+767
+245
+torch.Size([444, 480])
+245
+766
+torch.Size([451, 480])
+766
+51
+torch.Size([667, 480])
+51
+933
+torch.Size([460, 480])
+933
+277
+torch.Size([604, 480])
+277
+475
+torch.Size([488, 480])
+475
+359
+torch.Size([248, 480])
+359
+104
+torch.Size([166, 480])
+104
+445
+torch.Size([185, 480])
+445
+333
+torch.Size([289, 480])
+333
+622
+torch.Size([384, 480])
+622
+671
+torch.Size([596, 480])
+671
+404
+torch.Size([466, 480])
+404
+336
+torch.Size([1717, 480])
+336
+381
+torch.Size([350, 480])
+381
+533
+torch.Size([389, 480])
+533
+896
+torch.Size([589, 480])
+896
+476
+torch.Size([380, 480])
+476
+712
+torch.Size([484, 480])
+712
+611
+torch.Size([466, 480])
+611
+377
+torch.Size([427, 480])
+377
+961
+torch.Size([181, 480])
+961
+917
+torch.Size([908, 480])
+917
+748
+torch.Size([265, 480])
+748
+976
+torch.Size([147, 480])
+976
+452
+torch.Size([351, 480])
+452
+875
+torch.Size([383, 480])
+875
+780
+torch.Size([2671, 480])
+780
+258
+torch.Size([380, 480])
+258
+598
+torch.Size([93, 480])
+598
+862
+torch.Size([538, 480])
+862
+752
+torch.Size([140, 480])
+752
+547
+torch.Size([607, 480])
+547
+38
+torch.Size([798, 480])
+38
+610
+torch.Size([384, 480])
+610
+227
+torch.Size([450, 480])
+227
+328
+torch.Size([301, 480])
+328
+264
+torch.Size([198, 480])
+264
+806
+torch.Size([320, 480])
+806
+807
+torch.Size([620, 480])
+807
+326
+torch.Size([372, 480])
+326
+926
+torch.Size([368, 480])
+926
+664
+torch.Size([213, 480])
+664
+5
+torch.Size([327, 480])
+5
+661
+torch.Size([725, 480])
+661
+969
+torch.Size([53, 480])
+969
+302
+torch.Size([461, 480])
+302
+570
+torch.Size([503, 480])
+570
+615
+torch.Size([520, 480])
+615
+10
+torch.Size([300, 480])
+10
+242
+torch.Size([407, 480])
+242
+188
+torch.Size([781, 480])
+188
+679
+torch.Size([402, 480])
+679
+951
+torch.Size([750, 480])
+951
+268
+torch.Size([422, 480])
+268
+745
+torch.Size([446, 480])
+745
+496
+torch.Size([253, 480])
+496
+538
+torch.Size([472, 480])
+538
+703
+torch.Size([184, 480])
+703
+738
+torch.Size([1058, 480])
+738
+370
+torch.Size([427, 480])
+370
+26
+torch.Size([362, 480])
+26
+207
+torch.Size([118, 480])
+207
+597
+torch.Size([141, 480])
+597
+18
+torch.Size([329, 480])
+18
+683
+torch.Size([399, 480])
+683
+387
+torch.Size([145, 480])
+387
+339
+torch.Size([1162, 480])
+339
+366
+torch.Size([949, 480])
+366
+876
+torch.Size([396, 480])
+876
+322
+torch.Size([251, 480])
+322
+698
+torch.Size([502, 480])
+698
+900
+torch.Size([595, 480])
+900
+501
+torch.Size([230, 480])
+501
+781
+torch.Size([521, 480])
+781
+573
+torch.Size([543, 480])
+573
+157
+torch.Size([147, 480])
+157
+192
+torch.Size([217, 480])
+192
+479
+torch.Size([400, 480])
+479
+571
+torch.Size([467, 480])
+571
+49
+torch.Size([126, 480])
+49
+116
+torch.Size([515, 480])
+116
+831
+torch.Size([520, 480])
+831
+549
+torch.Size([643, 480])
+549
+544
+torch.Size([246, 480])
+544
+819
+torch.Size([804, 480])
+819
+8
+torch.Size([300, 480])
+8
+375
+torch.Size([501, 480])
+375
+963
+torch.Size([123, 480])
+963
+872
+torch.Size([459, 480])
+872
+651
+torch.Size([483, 480])
+651
+480
+torch.Size([440, 480])
+480
+348
+torch.Size([492, 480])
+348
+582
+torch.Size([160, 480])
+582
+883
+torch.Size([189, 480])
+883
+394
+torch.Size([372, 480])
+394
+798
+torch.Size([1261, 480])
+798
+485
+torch.Size([398, 480])
+485
+554
+torch.Size([1130, 480])
+554
+515
+torch.Size([366, 480])
+515
+898
+torch.Size([405, 480])
+898
+118
+torch.Size([515, 480])
+118
+355
+torch.Size([875, 480])
+355
+637
+torch.Size([236, 480])
+637
+500
+torch.Size([626, 480])
+500
+240
+torch.Size([418, 480])
+240
+54
+torch.Size([264, 480])
+54
+519
+torch.Size([303, 480])
+519
+967
+torch.Size([123, 480])
+967
+289
+torch.Size([298, 480])
+289
+17
+torch.Size([82, 480])
+17
+230
+torch.Size([778, 480])
+230
+775
+torch.Size([832, 480])
+775
+228
+torch.Size([530, 480])
+228
+241
+torch.Size([407, 480])
+241
+708
+torch.Size([1263, 480])
+708
+947
+torch.Size([317, 480])
+947
+955
+torch.Size([425, 480])
+955
+741
+torch.Size([752, 480])
+741
+617
+torch.Size([458, 480])
+617
+681
+torch.Size([624, 480])
+681
+457
+torch.Size([1205, 480])
+457
+559
+torch.Size([268, 480])
+559
+718
+torch.Size([456, 480])
+718
+595
+torch.Size([669, 480])
+595
+120
+torch.Size([499, 480])
+120
+14
+torch.Size([300, 480])
+14
+163
+torch.Size([440, 480])
+163
+291
+torch.Size([390, 480])
+291
+747
+torch.Size([856, 480])
+747
+112
+torch.Size([359, 480])
+112
+129
+torch.Size([327, 480])
+129
+246
+torch.Size([176, 480])
+246
+92
+torch.Size([116, 480])
+92
+829
+torch.Size([169, 480])
+829
+721
+torch.Size([418, 480])
+721
+285
+torch.Size([1434, 480])
+285
+260
+torch.Size([400, 480])
+260
+579
+torch.Size([367, 480])
+579
+706
+torch.Size([976, 480])
+706
+330
+torch.Size([451, 480])
+330
+603
+torch.Size([477, 480])
+603
+338
+torch.Size([372, 480])
+338
+511
+torch.Size([1170, 480])
+511
+7
+torch.Size([612, 480])
+7
+824
+torch.Size([377, 480])
+824
+892
+torch.Size([267, 480])
+892
+15
+torch.Size([300, 480])
+15
+461
+torch.Size([1872, 480])
+461
+655
+torch.Size([318, 480])
+655
+859
+torch.Size([1647, 480])
+859
+879
+torch.Size([266, 480])
+879
+380
+torch.Size([351, 480])
+380
+495
+torch.Size([602, 480])
+495
+6
+torch.Size([327, 480])
+6
+937
+torch.Size([1458, 480])
+937
+759
+torch.Size([493, 480])
+759
+20
+torch.Size([358, 480])
+20
+964
+torch.Size([123, 480])
+964
+251
+torch.Size([401, 480])
+251
+183
+torch.Size([1235, 480])
+183
+267
+torch.Size([736, 480])
+267
+635
+torch.Size([390, 480])
+635
+276
+torch.Size([1001, 480])
+276
+890
+torch.Size([404, 480])
+890
+887
+torch.Size([132, 480])
+887
+21
+torch.Size([358, 480])
+21
+957
+torch.Size([464, 480])
+957
+16
+torch.Size([341, 480])
+16
+462
+torch.Size([1051, 480])
+462
+803
+torch.Size([260, 480])
+803
+438
+torch.Size([314, 480])
+438
+107
+torch.Size([594, 480])
+107
+103
+torch.Size([316, 480])
+103
+198
+torch.Size([122, 480])
+198
+885
+torch.Size([598, 480])
+885
+288
+torch.Size([367, 480])
+288
+481
+torch.Size([440, 480])
+481
+145
+torch.Size([770, 480])
+145
+858
+torch.Size([938, 480])
+858
+229
+torch.Size([742, 480])
+229
+972
+torch.Size([99, 480])
+972
+804
+torch.Size([370, 480])
+804
+734
+torch.Size([1208, 480])
+734
+621
+torch.Size([332, 480])
+621
+815
+torch.Size([947, 480])
+815
+816
+torch.Size([847, 480])
+816
+119
+torch.Size([389, 480])
+119
+509
+torch.Size([565, 480])
+509
+440
+torch.Size([916, 480])
+440
+494
+torch.Size([1643, 480])
+494
+58
+torch.Size([399, 480])
+58
+398
+torch.Size([317, 480])
+398
+384
+torch.Size([1050, 480])
+384
+552
+torch.Size([465, 480])
+552
+89
+torch.Size([472, 480])
+89
+528
+torch.Size([548, 480])
+528
+760
+torch.Size([395, 480])
+760
+723
+torch.Size([418, 480])
+723
+531
+torch.Size([228, 480])
+531
+628
+torch.Size([595, 480])
+628
+978
+torch.Size([437, 480])
+978
+735
+torch.Size([1208, 480])
+735
+441
+torch.Size([462, 480])
+441
+482
+torch.Size([440, 480])
+482
+279
+torch.Size([809, 480])
+279
+830
+torch.Size([750, 480])
+830
+50
+torch.Size([689, 480])
+50
+882
+torch.Size([189, 480])
+882
+716
+torch.Size([622, 480])
+716
+225
+torch.Size([406, 480])
+225
+736
+torch.Size([1208, 480])
+736
+678
+torch.Size([160, 480])
+678
+46
+torch.Size([323, 480])
+46
+121
+torch.Size([1984, 480])
+121
+541
+torch.Size([472, 480])
+541
+117
+torch.Size([515, 480])
+117
+454
+torch.Size([358, 480])
+454
+605
+torch.Size([309, 480])
+605
+927
+torch.Size([1203, 480])
+927
+444
+torch.Size([651, 480])
+444
+281
+torch.Size([427, 480])
+281
+977
+torch.Size([98, 480])
+977
+625
+torch.Size([387, 480])
+625
+234
+torch.Size([583, 480])
+234
+57
+torch.Size([672, 480])
+57
+74
+torch.Size([105, 480])
+74
+556
+torch.Size([999, 480])
+556
+693
+torch.Size([308, 480])
+693
+690
+torch.Size([223, 480])
+690
+783
+torch.Size([486, 480])
+783
+647
+torch.Size([586, 480])
+647
+349
+torch.Size([530, 480])
+349
+583
+torch.Size([770, 480])
+583
+795
+torch.Size([1097, 480])
+795
+113
+torch.Size([1531, 480])
+113
+37
+torch.Size([163, 480])
+37
+486
+torch.Size([204, 480])
+486
+439
+torch.Size([823, 480])
+439
+636
+torch.Size([271, 480])
+636
+353
+torch.Size([497, 480])
+353
+694
+torch.Size([804, 480])
+694
+99
+torch.Size([260, 480])
+99
+966
+torch.Size([123, 480])
+966
+255
+torch.Size([380, 480])
+255
+897
+torch.Size([405, 480])
+897
+701
+torch.Size([451, 480])
+701
+425
+torch.Size([393, 480])
+425
+524
+torch.Size([839, 480])
+524
+22
+torch.Size([358, 480])
+22
+577
+torch.Size([478, 480])
+577
+704
+torch.Size([976, 480])
+704
+248
+torch.Size([406, 480])
+248
+717
+torch.Size([1205, 480])
+717
+196
+torch.Size([317, 480])
+196
+979
