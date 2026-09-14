@@ -4,79 +4,61 @@ This repository provides a benchmark of **12 DTA/DTI prediction models** evaluat
 
 ## Repository Structure
 
-The repository currently contains three branches:
+The repository currently contains three folder:
 
-* **`result`** — Datasets used in the experiments and the results of all models
-* **`dta`** — Source code for DTA (Drug-Target Affinity) models
-* **`dti`** — Source code for DTI (Drug-Target Interaction) models
+* **`dataset`** — Datasets used in the experiments and the results of all models
+* **`model`** — 12 DTA/DTI prediction models
+* **`result`** — 12 DTA/DTI prediction values
 
 ## Results
 
 The computational experiment results of all prediction models on the BioSNAP and KIBA datasets are shown below:
 
 
-### Table 1：Performance comparsion between seven DTI prediction models on BIOSANP dataset under random-split settings
+### Table 1：Performance comparison between seven DTI prediction models on BIOSANP dataset under random-split settings
 
-| Method | Model | AUROC | AUPRC | Max MCC | Max F1-score |
-|------|------|---------|--------|---------|--------------|
-| knowledge-guided and physics-based | AutoDock Vina | 0.5242 | 0.5379 | 0.0731 | 0.6699 |
-| statistical machine learning | ChemBoost | 0.8970 | 0.9118 | 0.6476 | 0.8254 |
-| supervised representation learning | MolTrans | 0.8774 | 0.8872 | 0.6155 | 0.8070 |
-| supervised representation learning | DrugBAN | 0.9058 | 0.9134 | 0.6825 | 0.8377 |
-| protein-side foundation model | ConPLex | 0.9152 | 0.9304 | 0.6938 | 0.8414 |
-| molecule-side foundation model | MT-DTI | 0.9096 | 0.9250 | 0.7014 | 0.8387 |
-| dual-branch foundation model | DTIAM | 0.9470 | 0.9538 | 0.7770 | 0.8865 |
+| Model | AUROC | AUPRC | Max MCC | Max F1-score |
+|------|------|------|------|------|
+| AutoDock Vina | 0.524 | 0.538 | 0.073 | 0.670 |
+| ChemBoost | 0.897 | 0.912 | 0.648 | 0.825 |
+| MolTrans | 0.877 | 0.887 | 0.616 | 0.807 |
+| DrugBAN | 0.906 | 0.913 | 0.683 | 0.838 |
+| ConPLex | 0.915 | 0.930 | 0.694 | 0.841 |
+| MT-DTI | 0.910 | 0.925 | 0.701 | 0.839 |
+| DTIAM | 0.947 | 0.954 | 0.777 | 0.887 |
 
-### table 2：biosnap unseen drug
+### Table 2：Performance comparison between seven DTI prediction models on BIOSANP dataset under unseen-drug settings
 
-| Method | Model | AUROC | AUPRC | Max MCC | Max F1-score |
-|------|------|---------|--------|---------|--------------|
-| knowledge-guided and physics-based | AutoDock Vina | 0.5361 | 0.5569 | 0.0713 | 0.6858 |
-| statistical machine learning | ChemBoost | 0.8306 | 0.8658 | 0.5529 | 0.7664 |
-| supervised representation learning | MolTrans | 0.8456 | 0.8663 | 0.5444 | 0.7816 |
-| supervised representation learning | DrugBAN | 0.8781 | 0.8967 | 0.6229 | 0.8124 |
-| protein-side foundation model | ConPLex | 0.8892 | 0.9090 | 0.6222 | 0.8101 |
-| molecule-side foundation model | MT-DTI | 0.8810 | 0.9076 | 0.6208 | 0.8104 |
-| dual-branch foundation model | DTIAM | 0.9130 | 0.9318 | 0.6886 | 0.8453 |
+| Model | AUROC | AUPRC | Max MCC | Max F1-score |
+|------|------|------|------|------|
+| AutoDock Vina | 0.536 | 0.557 | 0.071 | 0.686 |
+| ChemBoost | 0.831 | 0.866 | 0.553 | 0.766 |
+| MolTrans | 0.846 | 0.866 | 0.544 | 0.782 |
+| DrugBAN | 0.878 | 0.897 | 0.623 | 0.812 |
+| ConPLex | 0.889 | 0.909 | 0.622 | 0.810 |
+| MT-DTI | 0.881 | 0.908 | 0.621 | 0.810 |
+| DTIAM | 0.913 | 0.932 | 0.689 | 0.845 |
 
-### table 3：biosnap unseen protein
+### Table 3：Performance comparison between seven DTI prediction models on BIOSANP dataset under unseen-target settings
 
-| Method | Model | AUROC | AUPRC | Max MCC | Max F1-score |
-|------|------|---------|--------|---------|--------------|
-| knowledge-guided and physics-based | AutoDock Vina | 0.5505 | 0.5368 | 0.1119 | 0.6512 |
-| statistical machine learning | ChemBoost | 0.6072 | 0.5944 | 0.1831 | 0.6129 |
-| supervised representation learning | MolTrans | 0.6608 | 0.6808 | 0.2940 | 0.6576 |
-| supervised representation learning | DrugBAN | 0.6521 | 0.6555 | 0.2492 | 0.6511 |
-| protein-side foundation model | ConPLex | 0.8451 | 0.8667 | 0.5849 | 0.7633 |
-| molecule-side foundation model | MT-DTI | 0.7628 | 0.7954 | 0.4537 | 0.6797 |
-| dual-branch foundation model | DTIAM | 0.8962 | 0.9038 | 0.6574 | 0.8201 |
+| Model | AUROC | AUPRC | Max MCC | Max F1-score |
+|------|------|------|------|------|
+| AutoDock Vina | 0.551 | 0.537 | 0.112 | 0.651 |
+| ChemBoost | 0.607 | 0.594 | 0.183 | 0.613 |
+| MolTrans | 0.661 | 0.681 | 0.294 | 0.658 |
+| DrugBAN | 0.652 | 0.656 | 0.249 | 0.651 |
+| ConPLex | 0.845 | 0.867 | 0.585 | 0.763 |
+| MT-DTI | 0.763 | 0.795 | 0.454 | 0.680 |
+| DTIAM | 0.896 | 0.904 | 0.657 | 0.820 |
 
+### Table 4：Performance comparison between seven DTA prediction models on KIBA dataset
 
-### table 4: kiba
-| Method | Model | MSE | CI | $R_m^2$ |
-|---|---|---|---|---|
-| statistical machine learning | ChemBoost | 0.1764 | 0.8560 | 0.7244 |
-| supervised representation learning | DeepDTAGen | 0.1749 | 0.8736 | 0.7359 |
-| supervised representation learning | DMFF-DTA | 0.1567 | 0.8806 | 0.7570 |
-| protein-side foundation model | FusionDTA | 0.1493 | 0.8840 | 0.7566 |
-| molecule-side foundation model | SubMDTA | 0.1398 | 0.8924 | 0.7667 |
-| dual-branch foundation model | PMMR | 0.1575 | 0.8784 | 0.7449 |
-| dual-branch foundation model | DTIAM | 0.1572 | 0.8757 | 0.7312 |
-
-## Result Branch Structure
-
-The result branch is organized as follows:
-
-result/  
-├── dataset/  
-│   ├── biosnap/  
-│   └── kiba/  
-│  
-├── dta_result/  
-│   └── DTA model results on KIBA  
-│  
-└── dti_result/  
-    └── DTI model results on BioSNAP  
-dataset/ — Contains the KIBA and BioSNAP datasets used in the experiments.  
-dta_result/ — Contains the experimental results of DTA models on the KIBA dataset.  
-dti_result/ — Contains the experimental results of DTI models on the BIOSNAP dataset.  
+| Model | MSE | CI | $R_m^2$ |
+|---|---|---|---|
+| ChemBoost | 0.176 | 0.856 | 0.724 |
+| DeepDTAGen | 0.175 | 0.874 | 0.736 |
+| DMFF-DTA | 0.157 | 0.881 | 0.757 |
+| FusionDTA | 0.149 | 0.884 | 0.757 |
+| SubMDTA | 0.140 | 0.892 | 0.767 |
+| PMMR | 0.158 | 0.878 | 0.745 |
+| DTIAM | 0.157 | 0.876 | 0.731 |
