@@ -1,4 +1,4 @@
-# 2026-DTI-DTA-Review
+# The Evolution of Computational Drug-Target Binding Prediction: From Knowledge-Guided to Foundation Model-Based Methods
 
 This repository provides a benchmark of **12 DTA/DTI prediction models** on the **BIOSNAP** and **KIBA** datasets.
 
