@@ -1,23 +1,23 @@
 # 2026-DTI-DTA-Review
 
-This repository provides a benchmark of **12 DTA/DTI prediction models** evaluated on the **BIOSNAP** and **KIBA** datasets.
+This repository provides a benchmark of **12 DTA/DTI prediction models** on the **BIOSNAP** and **KIBA** datasets.
 
 ## Repository Structure
 
 The repository currently contains three folder:
 
-* **`dataset`** — Datasets used in the experiments and the results of all models
-* **`model`** — 12 DTA/DTI prediction models
-* **`result`** — 12 DTA/DTI prediction values
+* **`dataset`** — Benchmark datasets for all DTI/DTA prediction models
+* **`model`** — Source codes for all DTI/DTA prediction models
+* **`result`** — Prediction results for all DTI/DTA prediction models on the benchmark datasets
 
 ## Results
 
 The computational experiment results of all prediction models on the BIOSNAP and KIBA datasets are shown below:
 
 
-### Table 1：Performance comparison between seven DTI prediction models on BIOSANP dataset under random-split settings
+### Table 1：Performance comparison between seven DTI prediction models on BIOSNAP dataset under random-split settings
 
-| Model | AUROC | AUPRC | Max MCC | Max F1-score |
+| Model | AUROC | AUPRC | MCC | F1-score |
 |------|------|------|------|------|
 | AutoDock Vina | 0.524 | 0.538 | 0.073 | 0.670 |
 | ChemBoost | 0.897 | 0.912 | 0.648 | 0.825 |
@@ -27,9 +27,9 @@ The computational experiment results of all prediction models on the BIOSNAP and
 | MT-DTI | 0.910 | 0.925 | 0.701 | 0.839 |
 | DTIAM | 0.947 | 0.954 | 0.777 | 0.887 |
 
-### Table 2：Performance comparison between seven DTI prediction models on BIOSANP dataset under unseen-drug settings
+### Table 2：Performance comparison between seven DTI prediction models on BIOSNAP dataset under unseen-drug settings
 
-| Model | AUROC | AUPRC | Max MCC | Max F1-score |
+| Model | AUROC | AUPRC | MCC | F1-score |
 |------|------|------|------|------|
 | AutoDock Vina | 0.536 | 0.557 | 0.071 | 0.686 |
 | ChemBoost | 0.831 | 0.866 | 0.553 | 0.766 |
@@ -39,9 +39,9 @@ The computational experiment results of all prediction models on the BIOSNAP and
 | MT-DTI | 0.881 | 0.908 | 0.621 | 0.810 |
 | DTIAM | 0.913 | 0.932 | 0.689 | 0.845 |
 
-### Table 3：Performance comparison between seven DTI prediction models on BIOSANP dataset under unseen-target settings
+### Table 3：Performance comparison between seven DTI prediction models on BIOSNAP dataset under unseen-target settings
 
-| Model | AUROC | AUPRC | Max MCC | Max F1-score |
+| Model | AUROC | AUPRC | MCC | F1-score |
 |------|------|------|------|------|
 | AutoDock Vina | 0.551 | 0.537 | 0.112 | 0.651 |
 | ChemBoost | 0.607 | 0.594 | 0.183 | 0.613 |
